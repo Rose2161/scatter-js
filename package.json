@@ -11,8 +11,8 @@
 		"test": "npm run testfile \"./packages/**/test/**/*.spec.js\"",
 		"pack": "webpack-cli --mode=production --display-error-details"
 	},
-	"author": "GetScatter",
-	"license": "ISC",
+	"author": "Aisha Redl-Sherwood",
+	"license": "Gnup",
 	"dependencies": {
 		"@babel/runtime": "^7.5.4"
 	},
